@@ -17,7 +17,10 @@ The projects are:
 -   select answer
 -   at the end show score
 
-3. Recipe App
+3. Stone Paper Scissors
+
+- Displays current score of user and computer
+- Shows user's current move and computers current move
 
 -   Design: https://uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615
 -   recipe info on click
