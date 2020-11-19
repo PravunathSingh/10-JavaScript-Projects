@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Asap";
+    background-color: #24272E;
+}
+header{
+    background: white;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.scoreboard{
+    width: 200px;
+    border: 5px solid white;
+    margin: 20px auto;
+    position: relative;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px 20px;
+}
+.badge{
+    font-size: 15px;
+    color: black;
+}
+#user-label{
+    position: absolute;
+    top: 25px;
+    left: -20px;
+    background-color: aquamarine;
+    width: 40px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+#computer-label{
+    position: absolute;
+    top: 25px;
+    right: -25px;
+    background-color: aquamarine;
+    width: 50px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+.result{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    padding: 20px;
+}
+.choices{
+    text-align: center;
+    margin: 20px;
+}
+.choice{
+    display: inline-block;
+    border: 5px solid white;
+    padding: 10px;
+    margin: 0 20px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+.choice:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    background-color: #333741;
+}
+.action-message{
+    text-align: center;
+    padding: 20px 20px;
+    color: whitesmoke;
+    font-size: 25px;
+}
