@@ -39,13 +39,10 @@ The projects are:
 -   CRUD todos
 -   localStorage
 
-6. Movie App
+6. Calculator
 
--   Design: https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
--   list of movies
--   movie info
--   fav movie
--   actors
+-   All basic arithematic operations
+-   Can also a given number.
 
 7. GitHub Profiles App
 
