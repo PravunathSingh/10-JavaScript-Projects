@@ -1,6 +1,6 @@
-# 10 JavaScript Projects.
+# JavaScript Projects.
 
-I took on a challenge to complete projects in a weekend.
+I took on a challenge to these complete projects in a weekend.
 
 The projects are:
 
@@ -39,24 +39,19 @@ The projects are:
 -   CRUD todos
 -   localStorage
 
-6. Calculator
-
--   All basic arithematic operations
--   Can also a given number.
-
-7. GitHub Profiles App
+6. GitHub Profiles App
 
 -   Design: https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
 -   search for user
 -   get and show data
 
-8. Drawing App
+7. Drawing App
 
 -   canvas
 -   size
 -   color
 
-9. Password Generator
+8. Password Generator
 
 -   Design: https://codepen.io/FlorinPop17/full/BaBePej
 -   numbers
@@ -64,7 +59,7 @@ The projects are:
 -   symbols
 -   copy to clipboard
 
-10. Weather App
+9. Weather App
 
 -   Design: https://uidesigndaily.com/posts/photoshop-weather-prognosis-day-156
 -   enter location
