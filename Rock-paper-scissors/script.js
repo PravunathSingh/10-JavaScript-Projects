@@ -67,7 +67,7 @@ function main() {
         game("p");
     });
     scissors.addEventListener('click', () => {
-        game("r");
+        game("s");
     });
 }
 
